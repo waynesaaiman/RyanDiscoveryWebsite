@@ -1,5 +1,7 @@
 
-# Ryan Discovery Website – AI-Powered Financial Advisor Platform
+# Ryan Tubba Steenkamp
+
+Discovery Financial Advisor | Ryan Tubba Steenkamp
 
 This project is a fully orchestrated, AI-driven website for a South African Discovery Financial Advisor. It leverages modern web technologies and automation to deliver a branded, lead-generating platform with automated blog and social media publishing.
 
