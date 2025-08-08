@@ -1,3 +1,4 @@
+logsBucket: "gs://discoverywebsite-cloudbuild-logs"
 # Best practice Cloud Build config for Next.js to Cloud Run
 steps:
   - name: 'gcr.io/cloud-builders/docker'
