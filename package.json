@@ -1,0 +1,35 @@
+{
+  "name": "ryan_discovery_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynesaaiman/Ryan_Discovery_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynesaaiman/Ryan_Discovery_Website/issues"
+  },
+  "homepage": "https://github.com/waynesaaiman/Ryan_Discovery_Website#readme",
+  "description": "This project is a fully orchestrated, AI-driven website for a South African Discovery Financial Advisor. It leverages modern web technologies and automation to deliver a branded, lead-generating platform with automated blog and social media publishing.",
+  "dependencies": {
+    "eslint": "^9.32.0",
+    "next": "^15.4.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "24.2.0",
+    "@types/react": "19.1.9"
+  }
+}
